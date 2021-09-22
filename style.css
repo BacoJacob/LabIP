@@ -35,7 +35,7 @@ li.a a:hover{
 }
 #bannerimage {
   width: 100%;
-  background-image: url("banner.jpg");
+  background-image: url("images/banner.jpg");
   height: 200px;
   
 }
